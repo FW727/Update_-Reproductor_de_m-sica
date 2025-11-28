@@ -1,0 +1,11 @@
+{
+  "versionapp": "2.0",
+  "titulo": "Actualización Disponible",
+  "subtitulo": "Hemos mejorado el rendimiento y corregido errores. Actualiza ahora para disfrutar de la mejor experiencia.",
+  "btn_close_text": "Cancelar",
+  "btn_update_text": "Actualizar",
+  "update_link": "https://play.google.com/store/apps",
+  "functionClose": true,
+  "functionExit": false
+}
+
